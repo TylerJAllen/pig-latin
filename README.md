@@ -25,7 +25,7 @@
 | Append all consonants before the first vowel and add "ay" to multi-letter words beginning with a capital and more than one consonant. | Thanks | anksThay |
 | Move the "u" along with the "q" when the first consonants include "qu". | squeal | ealsquay |
 | Treat "y" as a consonant for words beginning with "y". | yellow | ellowyay |
-| xxx | xxx | xxx |
+| Treat "y" as a vowel for words beginning with one or more consonants. | style | ylestay |
 
 
 ## Setup/Installation Requirements
